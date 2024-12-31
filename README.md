@@ -41,3 +41,9 @@ The following commands are available for the One Piece character Discord bots:
 - `!brook`: Provides information about Brook.
 - `!jinbe`: Provides information about Jinbe.
 - `!crew`: Provides information about the entire crew.
+
+## crewAI
+
+The `crewAI` repository contains advanced AI models and tools for various applications. You can find more information and access the repository at the following link:
+
+[crewAI Repository](https://github.com/crewAIInc/crewAI)
