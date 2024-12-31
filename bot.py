@@ -57,4 +57,19 @@ async def jinbe(ctx):
     response = "Jinbe is the helmsman of the Straw Hat Pirates."
     await ctx.send(response)
 
+@bot.command(name='crew')
+async def crew(ctx):
+    response = (
+        "Monkey D. Luffy is the captain of the Straw Hat Pirates.\n"
+        "Roronoa Zoro is the swordsman of the Straw Hat Pirates.\n"
+        "Nami is the navigator of the Straw Hat Pirates.\n"
+        "Sanji is the cook of the Straw Hat Pirates.\n"
+        "Tony Tony Chopper is the doctor of the Straw Hat Pirates.\n"
+        "Nico Robin is the archaeologist of the Straw Hat Pirates.\n"
+        "Franky is the shipwright of the Thousand Sunny.\n"
+        "Brook is the musician of the Straw Hat Pirates.\n"
+        "Jinbe is the helmsman of the Straw Hat Pirates."
+    )
+    await ctx.send(response)
+
 bot.run(TOKEN)

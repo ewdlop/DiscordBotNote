@@ -40,3 +40,4 @@ The following commands are available for the One Piece character Discord bots:
 - `!franky`: Provides information about Franky.
 - `!brook`: Provides information about Brook.
 - `!jinbe`: Provides information about Jinbe.
+- `!crew`: Provides information about the entire crew.
