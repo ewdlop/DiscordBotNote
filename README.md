@@ -42,7 +42,7 @@ The following commands are available for the One Piece character Discord bots:
 - `!jinbe`: Provides information about Jinbe.
 - `!crew`: Provides information about the entire crew.
 
-## crewAI
+## crewAI && TinyTroupe
 
 The `crewAI` repository contains advanced AI models and tools for various applications. You can find more information and access the repository at the following link:
 
